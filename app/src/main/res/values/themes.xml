@@ -1,0 +1,7 @@
+<resources>
+    <style name="Base.Theme.TapCounter" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#005C53</item>
+    </style>
+
+    <style name="Theme.TapCounter" parent="Base.Theme.TapCounter" />
+</resources>
