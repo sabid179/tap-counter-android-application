@@ -1,72 +1,66 @@
-🔢 TapCounter - Elegant Counting App for Android
-<div align="center"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen" /> </div>
-✨ Features
-Core Functionality
-Simple tap-to-count interface
+<div align="center">
 
-Multi-touch support (counts multiple fingers)
+# 🎯 TapCounter  
+### ✨ Your Elegant Counting Companion  
 
-Reset button with sound feedback
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge"/>
 
-Haptic vibration on each tap
+</div>
 
-Data Management
-Automatic count saving (SharedPreferences)
+---
 
-Persistent between app sessions
+<div align="center">
 
-No internet connection required
+## 🌟 Key Features  
 
-UX Enhancements
-Clean Material Design interface
+🔹 **Intuitive Counting** - Tap anywhere to increment   
+🔹 **Smart Reset** - With satisfying sound feedback  
+🔹 **Haptic Feedback** - Gentle vibration on each tap  
+🔹 **Auto-Save** - Never lose your count  
 
-Responsive touch feedback
+</div>
 
-Optimized for one-handed use
+---
 
-📲 How to Use
-Basic Counting
+<div align="center">
 
-Tap anywhere on screen to increment counter
+## 📱 How To Use  
 
-Use multiple fingers to count faster
+1. **Single Tap** → Increment by 1   
+3. **Reset Button** → Returns to zero with sound  
+4. **Works Offline** → No internet needed  
 
-Reset Function
+</div>
 
-Press the trash icon to reset to zero
+---
 
-Plays a satisfying "reset" sound
+<div align="center">
 
-Settings
+## ⚙️ Technical Specs  
 
-Vibration intensity control
+✔ **Minimum Android**: 5.0 (API 21)  
+✔ **Storage**: <5MB required  
+✔ **Components**: SoundPool, Vibrator, SharedPreferences  
+✔ **Code**: Clean Java implementation  
 
-Sound on/off toggle
+</div>
 
-⚙️ Technical Details
-Minimum Requirements
+---
 
-Android 5.0 (API 21)
+<div align="center">
 
-5MB storage space
+## 📜 License  
 
-Components Used
+MIT Licensed - Free for everyone  
 
-SoundPool for audio feedback
+</div>
 
-Vibrator for haptic feedback
+---
 
-SharedPreferences for data persistence
+<div align="center">
 
-Code Structure
+_Crafted with ❤️ by Md. Rakibul Islam Sabid_ 
 
-Well-organized Java classes
-
-Constants for easy configuration
-
-Efficient event handling
-
-📜 License
-MIT License - Free for personal and commercial use
-
-<div align="center"> <sub>Developed with ❤️ by Md. Rakibul Islam Sabid</sub> </div>
+</div>
