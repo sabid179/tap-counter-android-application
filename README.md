@@ -28,9 +28,9 @@
 
 ## 📱 How To Use  
 
-1. **Single Tap** → Increment by 1   
-3. **Reset Button** → Returns to zero with sound  
-4. **Works Offline** → No internet needed  
+**Tap** → Increment by 1   
+**Reset Button** → Returns to zero with sound  
+**Works Offline** → No internet needed  
 
 </div>
 
